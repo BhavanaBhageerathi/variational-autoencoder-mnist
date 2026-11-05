@@ -1,0 +1,30 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+.venv/
+myvirtualenv/
+
+# Dataset
+
+data/
+
+# Model files
+
+*.pth
+*.pt
+*.ckpt
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
